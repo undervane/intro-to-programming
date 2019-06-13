@@ -1,3 +1,5 @@
-# Vuepress Template
+# Intro to Programming
 
-Work in progress
+A concise introduction to general purpose programming concepts
+
+See the guide here: https://undervane.github.io/intro-to-programming/
