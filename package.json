@@ -1,21 +1,21 @@
 {
-  "name": "vuepress-template",
+  "name": "intro-to-programming",
   "version": "1.0.0",
-  "description": "My ready to go solution for every vuepress site",
+  "description": "A concise introduction to general purpose programming concepts",
   "scripts": {
     "start": "vuepress dev src",
     "build": "vuepress build src"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/undervane/vuepress-template.git"
+    "url": "git+https://github.com/undervane/intro-to-programming.git"
   },
   "author": "Undervane",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/undervane/vuepress-template/issues"
+    "url": "https://github.com/undervane/intro-to-programming/issues"
   },
-  "homepage": "https://github.com/undervane/vuepress-template#readme",
+  "homepage": "https://github.com/undervane/intro-to-programming#readme",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.1",
     "vuepress": "^1.0.1"

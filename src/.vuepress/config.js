@@ -1,8 +1,8 @@
 module.exports = {
-  title: "Vuepress Template",
-  description: "My ready to go solution for every vuepress site",
+  title: "Intro to Programming",
+  description: "A concise introduction to general purpose programming concepts",
   dest: "docs",
-  base: "/my-deployed-github-pages/",
+  base: "/intro-to-programming/",
   plugins: [
     ["@vuepress/back-to-top", true],
     [

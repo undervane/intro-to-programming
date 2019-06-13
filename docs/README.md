@@ -1,0 +1,1 @@
+The docs folder was automatically generated using the `npm run build` command, do not modify this folder manually, instead make the changes inside the workshop folder, and later build with the previous command.
